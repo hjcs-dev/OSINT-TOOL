@@ -3,7 +3,7 @@ This tool is not 100% accurate so it can fail sometimes. Also this tool is made 
 
 #  Credits
 
-[DevMaster](https://github.com/DevMaster-sudo) and [NightKikko](https://github.com/NightKikko)
+[HJCS](https://github.com/hjcs-dev) and [NightKikko](https://github.com/NightKikko)
 
 # Install Tool
 
