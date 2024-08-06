@@ -9,7 +9,7 @@ This tool is not 100% accurate so it can fail sometimes. Also this tool is made 
 
 1. Clone the repository:
 ```
-git clone https://github.com/DevMaster-sudo/OSINT-TOOL.git
+git clone https://github.com/hjcs-dev/OSINT-TOOL
 ```
 ## Install dependencies
 ```
